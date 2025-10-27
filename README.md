@@ -15,5 +15,5 @@ This project performs basic arithmetic operations with a clean, modern UI and re
 ---
 
 ## 🖼️ Preview
-```markdown
-![Calculator Screenshot](./screenshot.png)
+
+<img width="1920" height="1080" alt="Screenshot " src="https://github.com/user-attachments/assets/778d2c04-58d1-49eb-be8a-53452f867539" />
